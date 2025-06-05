@@ -1,0 +1,14 @@
+{
+    "_id": "27d97214-07bd-4a1c-a912-fb7c34c9af39",
+    "name": "Local Env",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2025-03-13T05:02:13.426Z",
+    "modified": "2025-03-13T05:02:13.426Z",
+    "data": [
+        {
+            "name": "API_URL",
+            "value": "http://localhost:5000/api"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "b9a2391c-af0a-4cf0-ad14-1162e09d3422",
+        "colId": "history",
+        "containerId": "",
+        "name": "Status",
+        "url": "{{API_URL}}/status",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2025-03-13T05:02:46.313Z",
+        "modified": "2025-03-13T05:02:46.313Z",
+        "headers": []
+    }
+]
